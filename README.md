@@ -144,3 +144,7 @@ self.attribute = something
     Inheritance is a way to form using new classes using classes that have already been defined. A language feature would not be worthy of the name “class” without supporting inheritance. The newly formed classes are called drived classes, the classes that we drive from are called base classes. Important benefits of inheritance are code reuse and reduction of complexcity of a program.
   * **Special Methods**
     Classes in Python can implement certain operations with special method names. These methods are not actually called direct but Python specific lanuage syntac.
+
+
+If you want to know more about python libraries go to this link :-
+ https://docs.python.org/3/library/index.html
